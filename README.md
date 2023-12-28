@@ -13,7 +13,8 @@ interaction with the MongoDB database
 -Collaborated with UI/UX designers to implement visually appealing
 and user-friendly interfaces, ensuring a seamless and enjoyable
 experience for website visitors.
---------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
 Tech Stack:
 Frontend: HTML5, CSS, JavaScript ( EJS).
 Backend: Node.js with Express.js.
