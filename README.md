@@ -1,6 +1,6 @@
 FULL STACK WEB DEVELOPMENT OF BOOKING WEBSITE
-A comprehensive booking website using the
-HTML5, CSS, JavaScript ( EJS) MongoDB, Express.js, Node.js, stack, following the MVC
+A comprehensive booking website using the MERN(
+HTML5, CSS, JavaScript ( EJS) MongoDB, Express.js, Node.js,) stack following the MVC
 (Model-View-Controller) design pattern.
 
 -Established a secure and efficient database architecture using
